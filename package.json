@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-status-bar-hidden",
+  "version": "0.1.0",
+  "description": "Hide the status bar on iOS",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "UIStatusBarHidden",
+    "UIViewControllerBasedStatusBarAppearance",
+    "status",
+    "bar"
+  ],
+  "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriano-di-giovanni/cordova-plugin-status-bar-hidden.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adriano-di-giovanni/cordova-plugin-status-bar-hidden/issues"
+  },
+  "homepage": "https://github.com/adriano-di-giovanni/cordova-plugin-status-bar-hidden#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
