@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-status-bar-hidden",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hide the status bar on iOS",
   "keywords": [
     "ecosystem:cordova",

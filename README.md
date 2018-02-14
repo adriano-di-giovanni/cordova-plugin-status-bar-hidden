@@ -7,7 +7,7 @@ This plugin hides the status bar on iOS setting the properties `UIStatusBarHidde
 ## Installation
 
 ```bash
-cordova plugin add https://github.com/adriano-di-giovanni/cordova-plugin-status-bar-hidden.git
+cordova plugin add cordova-plugin-status-bar-hidden
 ```
 
 ## Supported platforms

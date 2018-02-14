@@ -2,7 +2,7 @@
 <plugin
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-status-bar-hidden"
-    version="0.1.0">
+    version="0.1.1">
 
     <name>Status Bar Hidden</name>
     <description>Hide the status bar</description>
